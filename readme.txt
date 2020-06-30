@@ -1,2 +1,3 @@
 add merge.
-git is a free software.
+git is a asasdsadasdasfree software.
+go on to wrtie more sthing.
